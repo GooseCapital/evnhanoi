@@ -1,0 +1,8 @@
+{
+"domain": "evnhanoi",
+"name": "Get Money EVN Hanoi",
+"documentation": "https://www.example.com",
+"dependencies": [],
+"codeowners": ["Tiến Dũng: GooseCapital"],
+"requirements": []
+}
